@@ -1,9 +1,9 @@
 {
     "presets": [
         {
-            "name": "Default Network & Cache Settings",
-            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/default_cache_preset.xml",
-            "description": "This preset will restore the default settings for the 'network' and 'cache' categories."
+            "name": "SMMC default custom Cache Settings",
+            "url": "https://raw.githubusercontent.com/ljransom/SSMC/main/default_cache_preset.xml",
+            "description": "This preset will restore the default SSMC settings for the 'network' and 'cache' categories."
         },
         {
             "name": "Zero Cache Preset",
